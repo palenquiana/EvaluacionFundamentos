@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mario\\source\\repos\\LudmilaPalenque\\Ejercicio5\\Ejercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\mario\\Desktop\\EvaluacionFundamentos\\LudmilaPalenque\\Ejercicio5\\Ejercicio5.csproj",
       "projectName": "Ejercicio5",
-      "projectPath": "C:\\Users\\mario\\source\\repos\\LudmilaPalenque\\Ejercicio5\\Ejercicio5.csproj",
+      "projectPath": "C:\\Users\\mario\\Desktop\\EvaluacionFundamentos\\LudmilaPalenque\\Ejercicio5\\Ejercicio5.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mario\\source\\repos\\LudmilaPalenque\\Ejercicio5\\obj\\",
+      "outputPath": "C:\\Users\\mario\\Desktop\\EvaluacionFundamentos\\LudmilaPalenque\\Ejercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
