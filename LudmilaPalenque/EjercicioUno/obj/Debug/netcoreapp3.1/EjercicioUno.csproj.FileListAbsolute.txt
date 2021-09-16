@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\bin\Debug\netcoreapp3.1\EjercicioUno.exe
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\bin\Debug\netcoreapp3.1\EjercicioUno.deps.json
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\bin\Debug\netcoreapp3.1\EjercicioUno.runtimeconfig.json
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\bin\Debug\netcoreapp3.1\EjercicioUno.runtimeconfig.dev.json
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\bin\Debug\netcoreapp3.1\EjercicioUno.dll
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\bin\Debug\netcoreapp3.1\EjercicioUno.pdb
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.AssemblyInfo.cs
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.dll
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.pdb
+C:\Users\mario\source\repos\LudmilaPalenque\EjercicioUno\obj\Debug\netcoreapp3.1\EjercicioUno.genruntimeconfig.cache

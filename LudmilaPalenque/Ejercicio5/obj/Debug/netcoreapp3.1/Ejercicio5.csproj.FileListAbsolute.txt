@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\mario\source\repos\LudmilaPalenque\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache
